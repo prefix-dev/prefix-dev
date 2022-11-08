@@ -1,6 +1,6 @@
-# 🌐 beta.prefix.dev
+# 🌐 prefix.dev
 
-This repository serves as an issue tracker for anything related to https://beta.prefix.dev.
+This repository serves as an issue tracker for anything related to https://prefix.dev.
 
 #### Please help us make the website better! 
 
